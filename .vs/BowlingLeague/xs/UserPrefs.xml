@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{42F6B2C2-7678-4246-AA28-75D9B7B2B917}|Default">
+  <MonoDevelop.Ide.ItemProperties.BowlingLeague PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BowlingLeague/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="BowlingLeague/Components/TeamNameViewComponent.cs" Line="10" Column="9" />
+      <File FileName="BowlingLeague/Views/Home/Index.cshtml" Line="45" Column="47" />
+      <File FileName="BowlingLeague/Views/Shared/Components/TeamName/Default.cshtml" Line="2" Column="1" />
+      <File FileName="BowlingLeague/Controllers/HomeController.cs" Line="53" Column="1" />
+      <File FileName="BowlingLeague/Models/Teams.cs" Line="1" Column="1" />
+      <File FileName="BowlingLeague/Views/Shared/_Layout.cshtml" Line="33" Column="17" />
+      <File FileName="BowlingLeague/Startup.cs" Line="57" Column="48" />
+      <File FileName="BowlingLeague/Program.cs" Line="1" Column="1" />
+      <File FileName="BowlingLeague/Models/ViewModels/IndexViewModel.cs" Line="15" Column="1" />
+      <File FileName="BowlingLeague/Views/_ViewImports.cshtml" Line="6" Column="1" />
+      <File FileName="BowlingLeague/Models/ViewModels/PageNumberingInfo.cs" Line="1" Column="1" />
+      <File FileName="BowlingLeague/Infrastructure/PaginationTagHelper.cs" Line="24" Column="1" />
+      <File FileName="BowlingLeague/Models/BowlingLeagueContext.cs" Line="1" Column="1" />
+      <File FileName="BowlingLeague/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="BowlingLeague/Components/TeamTitleViewComponent.cs" Line="25" Column="10" />
+      <File FileName="BowlingLeague/Views/Shared/Components/TeamTitle/Default.cshtml" Line="1" Column="32" />
+      <File FileName="BowlingLeague/Models/BowlerScores.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BowlingLeague" expanded="True">
+            <Node name="BowlingLeague" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="TeamName" expanded="True" />
+                    <Node name="TeamTitle" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
